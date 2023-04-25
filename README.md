@@ -16,7 +16,7 @@ Lassen sich Automarken- und -modelle mittels Bilderkennung kategorisieren?
   - Evaluation: F1-Score
 
 
-## Eigenes bBewertungskriterium
+## Eigenes Bewertungskriterium
 
 - **Ergebnisse und Schlussfolgerungen**
   - Qualität der Analyseergebnisse: Wie präzise und zuverlässig sind die Ergebnisse der Modellierung? Wurden angemessene Metriken verwendet?
